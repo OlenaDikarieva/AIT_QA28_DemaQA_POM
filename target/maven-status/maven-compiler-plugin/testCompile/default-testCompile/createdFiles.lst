@@ -1,0 +1,8 @@
+com\demoqa\tests\PracticeFormTests.class
+com\demoqa\tests\BroserWindowsTests.class
+com\demoqa\tests\ButtonsTests.class
+com\demoqa\tests\IframeTests.class
+com\demoqa\tests\TextBoxTests.class
+com\demoqa\tests\SelectMenuTests.class
+com\demoqa\tests\AlertsTests.class
+com\demoqa\tests\TestBase.class
